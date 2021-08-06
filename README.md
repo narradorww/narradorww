@@ -27,11 +27,10 @@
   
  
 </div>
-
-  
-
-  
+ 
   
 
 - 🌱 Estou estudando atualmente Desenvolvimento Mobile
+  
+  ![Snake animation](https://github.com/narradorww/narradorww/blob/output/github-contribution-grid-snake.svg)
 
