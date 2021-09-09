@@ -30,7 +30,8 @@
 <div> 
   
 
-- 🌱 Estou estudando atualmente Desenvolvimento Mobile
+-Fronted Engineer with ReactJS
+-Mobile Android Developer
   
   
 <div>
