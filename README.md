@@ -1,4 +1,9 @@
 ### Olá, eu sou o Rodrigo Alexandre 👋
+Meu objetivo profissional é auxiliar pessoas e empresas na construção de softwares que possam impactar seus negócios e marcas de maneira sustentável do ponto de vista financeiro, social e ambiental.
+
+Tendo construido a carreira em grandes empresas públicas, ora coordenando equipes de manutenção em telecomunicações, ora atuando na produção de infraestrutura de eventos corporativos, desenvolvi habilidades de negociação, gerenciamento de projetos e resolução de conflitos.
+
+Atualmente estou focado no Desenvolvimento Frontend em Javascript, utilizando principalmente ReactJS, React Native e Redux, mas também no Back-end com bots em NodeJs e aplicações com MongoDB
 
 <div>
   <a href="https://github.com/narradorww">
