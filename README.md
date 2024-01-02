@@ -1,9 +1,25 @@
 ### Olá, eu sou o Rodrigo Alexandre 👋
-Meu objetivo profissional é auxiliar pessoas e empresas na construção de softwares que possam impactar seus negócios e marcas de maneira sustentável do ponto de vista financeiro, social e ambiental.
+Olá! Meu nome é Rodrigo Alexandre, um desenvolvedor Front End / Mobile com mais de 3 anos de experiência em Javascript, Typescript, HTML, CSS, React, React Native, Redux e Context API. Estou focado em criar interfaces de usuário intuitivas e responsivas, melhorando a experiência do usuário e a eficiência dos processos.
 
-Tendo construido a carreira em grandes empresas públicas, ora coordenando equipes de manutenção em telecomunicações, ora atuando na produção de infraestrutura de eventos corporativos, desenvolvi habilidades de negociação, gerenciamento de projetos e resolução de conflitos.
+Recentemente, conquistei o primeiro lugar no Hack for Change da Alura+FIAP, um reconhecimento da minha habilidade em inovação e desenvolvimento de software.
 
-Atualmente estou focado no Desenvolvimento Frontend em Javascript, utilizando principalmente ReactJS, React Native e Redux, mas também no Back-end com bots em NodeJs e aplicações com MongoDB
+Atualmente, estou trabalhando na TRC LOGISTICS, onde fui essencial na reestruturação do setor de desenvolvimento de software. Antes disso, trabalhei na Netlume.IO, onde desempenhei um papel crucial no desenvolvimento de recursos e telas com React/Redux e Typescript.
+
+Estou cursando Engenharia de Computação na UNIVESP e possuo uma graduação em Engenharia Elétrica pela Universidade Cruzeiro do Sul.
+
+Tenho paixão por sustentabilidade, agrofloresta, inteligência artificial, jogos de tabuleiro, eletrônica e culinária.
+
+### Hello, I am Rodrigo Alexandre
+
+Hello! I am Rodrigo Alexandre, a Front End / Mobile Developer with over 3 years of experience in Javascript, Typescript, HTML, CSS, React, React Native, Redux, and Context API. My focus is on creating intuitive and responsive user interfaces, enhancing user experience and process efficiency.
+
+I recently achieved first place in the Hack for Change by Alura+FIAP, showcasing my skill in software development and innovation.
+
+Currently, I'm working at TRC LOGISTICS, where I played a key role in restructuring the software development sector. Before that, I contributed significantly at Netlume.IO, developing features and screens using React/Redux and Typescript.
+
+I am pursuing a degree in Computer Engineering at UNIVESP and hold a Bachelor's degree in Electrical Engineering from Universidade Cruzeiro do Sul.
+
+I am passionate about sustainability, agroforestry, artificial intelligence, board games, electronics, and cooking.
 
 <div>
   <a href="https://github.com/narradorww">
@@ -36,7 +52,7 @@ Atualmente estou focado no Desenvolvimento Frontend em Javascript, utilizando pr
   
 
 -Fronted Engineer with ReactJS
--Mobile Android Developer
+-Mobile React Native Developer
   
   
 <div>
