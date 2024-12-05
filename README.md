@@ -1,4 +1,4 @@
-### Olá, eu sou o Rodrigo Alexandre 👋
+### Olá, eu sou o Rodrigo Alexandre 👋 - English Below
 Olá! Meu nome é Rodrigo Alexandre, um desenvolvedor Front End / Mobile com mais de 3 anos de experiência em Javascript, Typescript, HTML, CSS, React, React Native, Redux e Context API. Estou focado em criar interfaces de usuário intuitivas e responsivas, melhorando a experiência do usuário e a eficiência dos processos.
 
 Recentemente, conquistei o primeiro lugar no Hack for Change da Alura+FIAP, um reconhecimento da minha habilidade em inovação e desenvolvimento de software.
