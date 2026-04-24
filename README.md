@@ -44,15 +44,7 @@ Interests: sustainability, agroforestry, AI, board games, electronics & cooking.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narradorww&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rodrigo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rodrigo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rodrigo-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Rodrigo-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original-wordmark.svg">
-</div>
+
 
 **Links:**
 [rodrigoalexandre.dev](https://rodrigoalexandre.dev) · [LinkedIn](https://www.linkedin.com/in/rodrigo-alexandre-50736343/) · [Instagram](https://instagram.com/narradorww) · [rodrigo.anst@gmail.com](mailto:rodrigo.anst@gmail.com)
