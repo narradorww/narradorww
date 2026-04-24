@@ -12,7 +12,7 @@ Anteriormente, fui essencial na reestruturação do setor de desenvolvimento na 
 
 Formado em **Engenharia Elétrica (Universidade Cruzeiro do Sul)** e cursando **Engenharia de Computação (UNIVESP)**.
 
-Sou também um **pesquisador e early adopter de ferramentas de IA de vanguarda** — exploro ativamente modelos e agentes como **Claude (Anthropic)**, **Gemini (Google)** e **Codex/ChatGPT (OpenAI)**, integrando IA no fluxo de desenvolvimento e na criação de produtos. Acredito que dominar essas ferramentas hoje é o diferencial do engenheiro de amanhã.
+Sou também um **pesquisador e early adopter de ferramentas de IA de vanguarda** — exploro ativamente modelos e agentes como **[Claude (Anthropic)](https://anthropic.com)**, **[Gemini (Google)](https://deepmind.google/gemini)** e **[Codex/ChatGPT (OpenAI)](https://openai.com)**, integrando IA no fluxo de desenvolvimento e na criação de produtos. Acredito que dominar essas ferramentas hoje é o diferencial do engenheiro de amanhã.
 
 Tenho paixão por sustentabilidade, agrofloresta, inteligência artificial, jogos de tabuleiro, eletrônica e culinária.
 
@@ -34,7 +34,7 @@ Previously, I played a key role in restructuring the software development sector
 
 B.Sc. in **Electrical Engineering (Universidade Cruzeiro do Sul)** · pursuing **Computer Engineering (UNIVESP)**.
 
-I'm also a **researcher and early adopter of cutting-edge AI tools** — actively exploring models and agents like **Claude (Anthropic)**, **Gemini (Google)**, and **Codex/ChatGPT (OpenAI)**, integrating AI into development workflows and product creation. I believe mastering these tools today is what sets tomorrow's engineer apart.
+I'm also a **researcher and early adopter of cutting-edge AI tools** — actively exploring models and agents like **[Claude (Anthropic)](https://anthropic.com)**, **[Gemini (Google)](https://deepmind.google/gemini)**, and **[Codex/ChatGPT (OpenAI)](https://openai.com)**, integrating AI into development workflows and product creation. I believe mastering these tools today is what sets tomorrow's engineer apart.
 
 Interests: sustainability, agroforestry, AI, board games, electronics & cooking.
 
