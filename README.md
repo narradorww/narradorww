@@ -54,14 +54,8 @@ Interests: sustainability, agroforestry, AI, board games, electronics & cooking.
   <img align="center" alt="Rodrigo-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original-wordmark.svg">
 </div>
 
-<p>
-<div>
-  <a href="https://rodrigoalexandre.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/narradorww" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/X5tzrqe4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="mailto:rodrigo.anst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-alexandre-50736343/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+**Links:**
+[rodrigoalexandre.dev](https://rodrigoalexandre.dev) · [LinkedIn](https://www.linkedin.com/in/rodrigo-alexandre-50736343/) · [Instagram](https://instagram.com/narradorww) · [rodrigo.anst@gmail.com](mailto:rodrigo.anst@gmail.com)
 
 <div>
 
